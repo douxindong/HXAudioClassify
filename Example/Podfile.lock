@@ -1,0 +1,16 @@
+PODS:
+  - audioClassify (1.0.0)
+
+DEPENDENCIES:
+  - audioClassify (from `../`)
+
+EXTERNAL SOURCES:
+  audioClassify:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  audioClassify: 6b75b86d7ca0cac4f62481de165540021361b350
+
+PODFILE CHECKSUM: e8f3d67a65301602394a66837cdae6584e75a2c9
+
+COCOAPODS: 1.11.3
